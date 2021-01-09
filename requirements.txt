@@ -3,6 +3,7 @@ beautifulsoup4
 git+git://github.com/google/chatbase-python.git
 hachoir
 numpy
+https://github.com/pyrogram/pyrogram
 Pillow
 requests
 tgcrypto
